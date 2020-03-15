@@ -4,7 +4,7 @@
 设置一定大小的人数、四种人群（四种状态）、传染概率、潜伏时间、治愈时间、免疫时间，即可对其进行模拟也可以更改规则和人数、人群，实现自己想要的模拟
 
 #### 环境配置&需要的包
-* Python 3.x
+* Python 3.x+Anaconda+Pycharm
 * ramdom、numpy、sys
 * pygame
 * matplotlib
